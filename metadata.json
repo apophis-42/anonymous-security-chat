@@ -1,0 +1,7 @@
+{
+  "name": "AnonChat: Salas Seguras & Anônimas",
+  "description": "Plataforma de chat anônimo com criptografia de ponta a ponta, suporte a mídia e salas autodestrutivas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
